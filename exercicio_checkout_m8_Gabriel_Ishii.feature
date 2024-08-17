@@ -16,9 +16,9 @@
 
             | nome   | sobrenome | nomeempresa | pais     | endereco     | complemento | cidade      | cep         | telefone     | email               | mensagem                          |
             | "João" | "Silva"   | "EBAC"      | "Brasil" | "Rua Belini" | "Número 54" | "São Paulo" | "05467-050" | "90000-0000" | "joao@ebac.com.br"  | "Cadastro realizado com sucesso!" |
-            | "João" | "Silva"   | ""          | "Brasil" | "Rua Belini" | ""          | "São Paulo" | "05467-050" | "90000-0000" | "joao@ebac.com.br"  | "Cadastro realizado com sucesso!" |
-            | "João" | "Silva"   | ""          | "Brasil" | "Rua Belini" | "Número 54" | "São Paulo" | "05467-050" | "90000-0000" | "joao@ebac.com.br"  | "Cadastro realizado com sucesso!" |
             | "João" | "Silva"   | "EBAC"      | "Brasil" | "Rua Belini" | ""          | "São Paulo" | "05467-050" | "90000-0000" | "joao@ebac.com.br"  | "Cadastro realizado com sucesso!" |
+            | "João" | "Silva"   | ""          | "Brasil" | "Rua Belini" | "Número 54" | "São Paulo" | "05467-050" | "90000-0000" | "joao@ebac.com.br"  | "Cadastro realizado com sucesso!" |
+            | "João" | "Silva"   | ""          | "Brasil" | "Rua Belini" | ""          | "São Paulo" | "05467-050" | "90000-0000" | "joao@ebac.com.br"  | "Cadastro realizado com sucesso!" |
 
             | "João" | "Silva"   | "EBAC"      | "Brasil" | "Rua Belini" | "Número 54" | "São Paulo" | "05467-050" | "90000-0000" | "joao@ebac"         | "formato de email inválido!"      |
             | "João" | "Silva"   | "EBAC"      | "Brasil" | "Rua Belini" | "Número 54" | "São Paulo" | "05467-050" | "90000-0000" | "joao@ebaccombr"    | "formato de email inválido!"      |
