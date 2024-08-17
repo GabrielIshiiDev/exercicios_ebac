@@ -9,16 +9,7 @@
             Contexto: que eu preencha e envie minhas informações de cadastro
 
             Esquema do Cenário: digitar as informações de cadastro
-            Quando eu digitar o <nome>
-            E o <sobrenome>
-            E o <nomeempresa>
-            E o <pais>
-            E o <endereco>
-            E o <complemento>
-            E a <cidade>
-            E o <cep>
-            E o <telefone>
-            E o <email>
+            Quando eu digitar o <nome>, <sobrenome>, <nomeempresa>, <pais>, <endereco>, <complemento>, <cidade>, <cep>, <telefone> e <email>
             Então deve exibir a <mensagem> de ação
 
             Exemplos:
